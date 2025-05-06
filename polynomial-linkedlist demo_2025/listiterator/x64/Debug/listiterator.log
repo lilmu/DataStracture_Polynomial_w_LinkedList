@@ -1,0 +1,11 @@
+﻿  ChainIterator.cpp
+  ChainNode.cpp
+  main.cpp
+G:\WORKING_2025\Course 2024\. DS2025\04 linked list\PHW#6 Polynomial by Template Linked List\PHW#7 Polynomial by Linked List\polynomial-linkedlist demo_old\Polynomial.h(105,7): warning C4101: 'temp': 未參考的區域變數
+  (編譯來源檔案 '../../../../PHW#6%20Polynomial%20by%20Template%20Linked%20List/PHW#7%20Polynomial%20by%20Linked%20List/polynomial-linkedlist%20demo_old/main.cpp')
+  
+G:\WORKING_2025\Course 2024\. DS2025\04 linked list\PHW#6 Polynomial by Template Linked List\PHW#7 Polynomial by Linked List\polynomial-linkedlist demo_old\Polynomial.h(117,7): warning C4101: 'sign': 未參考的區域變數
+  (編譯來源檔案 '../../../../PHW#6%20Polynomial%20by%20Template%20Linked%20List/PHW#7%20Polynomial%20by%20Linked%20List/polynomial-linkedlist%20demo_old/main.cpp')
+  
+  正在產生程式碼...
+  listiterator.vcxproj -> G:\WORKING_2025\Course 2024\. DS2025\04 linked list\PHW#6 Polynomial by Template Linked List\PHW#7 Polynomial by Linked List\polynomial-linkedlist demo_old\x64\Debug\listiterator.exe

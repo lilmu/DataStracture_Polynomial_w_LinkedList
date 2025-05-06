@@ -1,0 +1,9 @@
+﻿  ChainIterator.cpp
+  ChainNode.cpp
+  main.cpp
+N:\BACKUP\NTUST\EE-course\Data Structure\jjchen-horowitz\04 linked list\program\B2-ListIterator polynomial 2022  solved\polynomial-linkedlist solved\main.cpp(10,7): warning C4101: 'ch': 未參考的區域變數
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 180 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  listiterator.vcxproj -> N:\BACKUP\NTUST\EE-course\Data Structure\jjchen-horowitz\04 linked list\program\B2-ListIterator polynomial 2022  solved\polynomial-linkedlist solved\x64\Release\listiterator.exe
